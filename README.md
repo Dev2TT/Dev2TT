@@ -22,7 +22,7 @@
 ╰──────────────────────────────────────────────────────────╯
 ```
 
-## `01` — SOBRE MIM
+## SOBRE MIM
 
 Sou desenvolvedor com foco em **desenvolvimento full stack, dados e automação**.
 
@@ -43,7 +43,7 @@ Meu objetivo é transformar conhecimento em **projetos funcionais e soluções r
 
 ---
 
-## `02` — STACK
+## STACK
 
 ### `backend`
 
@@ -80,7 +80,7 @@ Meu objetivo é transformar conhecimento em **projetos funcionais e soluções r
 
 ---
 
-## `03` — PROJETOS
+## PROJETOS
 
 ```text
 $ ls ./projetos
