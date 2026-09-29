@@ -178,13 +178,16 @@ $ cat status.txt
 
 ## `06` — ATIVIDADE
 
-<div align="center">
+```text
+$ git log --stat
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev2TT&bg_color=0D1117&color=FFFFFF&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+Desenvolvendo.
+Testando.
+Aprendendo.
+Commitando.
 
-</div>
-
----
+> progresso contínuo_
+```
 
 ## `07` — ESTATÍSTICAS
 
