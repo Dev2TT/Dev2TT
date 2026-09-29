@@ -227,7 +227,7 @@ $ ./connect.sh
 
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/victtor-oliveira-897a991a4">
 
 <img src="https://img.shields.io/badge/LinkedIn-CONECTAR-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
 
