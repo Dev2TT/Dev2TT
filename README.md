@@ -90,7 +90,7 @@ $ ls ./projetos
 └── validador-cpf-cnpj
 ```
 
-### `01` — Conversor de Moedas
+### Conversor de Moedas
 
 Aplicação desenvolvida para realizar conversões de moedas através do consumo de uma API externa.
 
@@ -100,7 +100,7 @@ Aplicação desenvolvida para realizar conversões de moedas através do consumo
 
 ---
 
-### `02` — Gerador de Senhas
+### Gerador de Senhas
 
 Aplicação web envolvendo geração de senhas, autenticação, sessões e persistência de dados.
 
@@ -110,7 +110,7 @@ Aplicação web envolvendo geração de senhas, autenticação, sessões e persi
 
 ---
 
-### `03` — Validador CPF/CNPJ
+### Validador CPF/CNPJ
 
 Implementação dos algoritmos necessários para validação de documentos brasileiros.
 
@@ -120,7 +120,7 @@ Implementação dos algoritmos necessários para validação de documentos brasi
 
 ---
 
-## `04` — EM DESENVOLVIMENTO
+## EM DESENVOLVIMENTO
 
 ```text
 $ cat status.txt
@@ -139,7 +139,7 @@ $ cat status.txt
 
 ---
 
-## `05` — COMO EU DESENVOLVO
+## COMO EU DESENVOLVO
 
 ```text
                  ┌──────────────┐
@@ -176,7 +176,7 @@ $ cat status.txt
 
 ---
 
-## `06` — ATIVIDADE
+## ATIVIDADE
 
 ```text
 $ git log --stat
@@ -189,19 +189,7 @@ Commitando.
 > progresso contínuo_
 ```
 
-## `07` — ESTATÍSTICAS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dev2TT&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev2TT&layout=compact&theme=github_dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF" />
-
-</div>
-
----
-
-## `08` — CONTRIBUIÇÕES
+## CONTRIBUIÇÕES
 
 <div align="center">
 
@@ -211,7 +199,7 @@ Commitando.
 
 ---
 
-## `09` — CONTATO
+## CONTATO
 
 <div align="center">
 
